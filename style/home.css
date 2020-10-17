@@ -36,8 +36,6 @@
 .main-nav li a:hover{
     color: cornflowerblue;
 }
-
-
 .imghome img{
     width: 100%;
     height: auto;
@@ -49,11 +47,12 @@
     background-color: #000000c4;
     color: white;
     width: 60%;
-    height: 280px;
+    height: auto;
     position: relative;
     margin: auto;
     overflow: auto;
     margin-top: 15%;
+    margin-bottom: 10%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     font-size: 75%;
 }
@@ -71,7 +70,7 @@
     font-size: 140%;
 }
 .inicio{
-    height: 450px;
+    height: auto;
     
  }
 .main{
@@ -235,7 +234,7 @@
 }
 
 .contact{
-    background-color: cornflowerblue;
+    background-color: navy;
     padding: 2%;
     margin: auto;
     display: flex;
@@ -282,7 +281,6 @@
     width:90%;
     margin-left: 5%;
 }
-
 input{
     height: 30px;
 }
